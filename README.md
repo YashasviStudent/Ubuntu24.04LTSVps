@@ -1,1 +1,1 @@
-# Ubuntu24.04LTSVps
+# Ubuntu 24.04LTS Vps
