@@ -1,4 +1,4 @@
-# Ubuntu 24.04LTS Vps
+# Ubuntu 24.04LTS Vps YGNET
 
 wget -O xrdp1.sh https://rb.gy/lvtf36
 
